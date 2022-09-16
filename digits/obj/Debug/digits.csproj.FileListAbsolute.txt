@@ -1,0 +1,25 @@
+C:\Users\yanap\OneDrive\Рабочий стол\Digits\digits\obj\Debug\digits.exe
+C:\Users\yanap\OneDrive\Рабочий стол\Digits\digits\obj\Debug\digits.pdb
+C:\Users\yanap\OneDrive\Рабочий стол\Digits\digits\bin\Debug\digits.exe.config
+C:\Users\yanap\OneDrive\Рабочий стол\Digits\digits\bin\Debug\digits.exe
+C:\Users\yanap\OneDrive\Рабочий стол\Digits\digits\bin\Debug\digits.pdb
+C:\Users\yanap\OneDrive\Рабочий стол\Digits\digits\obj\Debug\digits.csproj.AssemblyReference.cache
+C:\Users\yanap\OneDrive\Рабочий стол\Digits\digits\obj\Debug\digits.csproj.SuggestedBindingRedirects.cache
+C:\Users\yanap\OneDrive\Рабочий стол\Digits\digits\obj\Debug\digits.Form1.resources
+C:\Users\yanap\OneDrive\Рабочий стол\Digits\digits\obj\Debug\digits.Properties.Resources.resources
+C:\Users\yanap\OneDrive\Рабочий стол\Digits\digits\obj\Debug\digits.csproj.GenerateResource.cache
+C:\Users\yanap\OneDrive\Рабочий стол\Digits\digits\obj\Debug\digits.csproj.CoreCompileInputs.cache
+C:\Курсовые\Digits\digits\bin\Debug\digits.exe.config
+C:\Курсовые\Digits\digits\bin\Debug\digits.exe
+C:\Курсовые\Digits\digits\bin\Debug\digits.pdb
+C:\Курсовые\Digits\digits\obj\Debug\digits.csproj.AssemblyReference.cache
+C:\Курсовые\Digits\digits\obj\Debug\digits.Form1.resources
+C:\Курсовые\Digits\digits\obj\Debug\digits.Properties.Resources.resources
+C:\Курсовые\Digits\digits\obj\Debug\digits.csproj.GenerateResource.cache
+C:\Курсовые\Digits\digits\obj\Debug\digits.csproj.CoreCompileInputs.cache
+C:\Курсовые\Digits\digits\obj\Debug\digits.exe
+C:\Курсовые\Digits\digits\obj\Debug\digits.pdb
+C:\Курсовые\Digits\digits\obj\Debug\digits.authorization.resources
+C:\Курсовые\Digits\digits\obj\Debug\digits.registration.resources
+C:\Курсовые\Digits\digits\bin\Debug\DataBase.mdf
+C:\Курсовые\Digits\digits\bin\Debug\DataBase_log.ldf
